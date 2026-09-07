@@ -16,45 +16,46 @@ d. Create a brand logo using Canva, following styling and branding guidelines an
 
 ## Output:
 
-## a. Gestalt Principles in Layout
+### a. Gestalt Principles in Layout
 
-• Proximity: Group food image, name, price, and button together in one card.
+• **Proximity:** Group the product image, product name, price, discount, and action button together in one product card.
 
-• Similarity: Use the same color and shape for all action buttons.
+• **Similarity:** Use the same color, shape, and style for buttons such as **Shop Now, Add to Cart, and Explore Now**.
 
-• Continuity: Smooth flow from header → search → categories → items → cart.
+• **Continuity:** Create a smooth flow from **header → search bar → categories → featured products → offers → cart**.
 
-• Figure/Ground: Highlight buttons in bold colors against a light background.
+• **Figure/Ground:** Highlight important buttons, prices, discounts, and offers using bold colors against a clean, light background.
 
-## b. UI Elements & Design Patterns
+### b. UI Elements & Design Patterns
 
-• Search Bar for quick discovery.
+• **Search Bar:** Allows users to quickly search and discover products.
 
-• Category Chips for easy filtering.
+• **Category Chips:** Provide easy filtering and navigation between categories such as **Men, Women, Electronics, and Home**.
 
-• Card-Based Layout for food items.
+• **Card-Based Layout:** Display each shopping product using a separate card containing its image, name, price, and discount.
 
-• Navigation Bars: Top navigation on web, bottom navigation on mobile.
+• **Navigation Bars:** Use a **top navigation bar on the web** and a **bottom navigation bar on mobile** for easy access.
 
-• Grid Layout for web, scroll list for mobile.
+• **Grid Layout:** Use a product grid on the web, while using a scrollable product layout on mobile.
 
-## c. Interaction & Usability
+### c. Interaction & Usability
 
-• Feedback: Buttons change color on click; cart updates instantly.
+• **Feedback:** Buttons provide visual feedback when clicked, and the cart count updates instantly when products are added.
 
-• Consistency: Same icons and CTAs across pages.
+• **Consistency:** Use the same icons, buttons, fonts, and call-to-action styles throughout the website and mobile app.
 
-• Accessibility: Clear fonts, large tap areas, focus states.
+• **Accessibility:** Use clear fonts, readable text, sufficiently large buttons, large touch areas, and visible focus states.
 
-• Responsive Design: Works seamlessly on both web and mobile.
+• **Responsive Design:** The shopping interface adapts smoothly to different screen sizes and works effectively on both web and mobile devices.
 
-## d. Brand Logo with Canva
+### d. Brand Logo with Canva
 
-• Create a simple, modern logo with your brand name (e.g., Foodify).
+• Create a simple and modern shopping logo using a brand name such as **ShopMate**.
 
-• Use a consistent color palette (e.g., red-orange for energy).
+• Use a consistent color palette throughout the application to maintain a clean and recognizable brand identity.
 
-• Export in SVG/PNG and place in header, footer, and app icon.
+• Export the logo in **SVG/PNG** format and place it in the **web header, mobile app header, footer, and app icon**.
+
 
 
 <img width="1374" height="1145" alt="Ex 2" src="https://github.com/user-attachments/assets/69c9b379-7094-47d8-be0e-bd5333460e15" />
